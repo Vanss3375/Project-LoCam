@@ -8,7 +8,7 @@ Aplikasi berbasis Android Studio dengan menggunakan bahasa java dengan fitur uta
 - dapat mengirim pesan email & menampilkan detail autho kepada user
 - dapat menghapus gambar
 
-# How to run peoject ?
+# How to run project ?
 - open / download android studio
 - download this zip file -> then unzip file into file
 - select Java language
